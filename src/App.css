@@ -23,6 +23,7 @@
 .formStyle input{
   font-size: large;
   margin-bottom: 2rem;
+  outline: none;
 }
 .errorStyle{
   margin-top: -1rem;
